@@ -8,7 +8,7 @@
 :root {
     --laranja-claro: #614c86;
     --alto-contraste-fundo: #0e085e;
-    --alto-contraste-texto: #ffffff;
+    --alto-contraste-texto: #ffffffe5;
     --alto-contraste-link: #9bb4bd;
     --filament-saturation: 0;
     --filament-lightness: 40;
@@ -26,7 +26,7 @@ body {
     font-size: 1rem;
     font-family: 'Montserrat';
     background: hsl(215, 100%, calc(var(--bg-lightness) 100%));
-    background-color: #794e4ef5;
+    background-color: #574840f5;
     margin: 0;
     padding: 0;
 }
