@@ -6,10 +6,10 @@
     box-sizing: border-box;
   }
 :root {
-    --laranja-claro: #FF862A;
-    --alto-contraste-fundo: #000000;
+    --laranja-claro: #65508b;
+    --alto-contraste-fundo: #0e085e;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #ffd700;
+    --alto-contraste-link: #9bb4bd;
     --filament-saturation: 0;
     --filament-lightness: 40;
     --fitting-lightness: 30;
@@ -40,7 +40,7 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #cb6e4375;
     font-weight: 600;
 }
 
