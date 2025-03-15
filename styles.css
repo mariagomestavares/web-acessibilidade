@@ -6,7 +6,7 @@
     box-sizing: border-box;
   }
 :root {
-    --laranja-claro: #65508b;
+    --laranja-claro: #614c86;
     --alto-contraste-fundo: #0e085e;
     --alto-contraste-texto: #ffffff;
     --alto-contraste-link: #9bb4bd;
@@ -25,7 +25,7 @@
 body {
     font-size: 1rem;
     font-family: 'Montserrat';
-    background: hsl(215, 100%, calc(var(--bg-lightness) * 100%));
+    background: hsl(215, 100%, calc(var(--bg-lightness) 100%));
     background-color: #cab8b8;
     margin: 0;
     padding: 0;
