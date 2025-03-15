@@ -6,10 +6,10 @@
     box-sizing: border-box;
   }
 :root {
-    --laranja-claro: #614c86;
-    --alto-contraste-fundo: #0e085e;
+    --laranja-claro: #493074;
+    --alto-contraste-fundo: #302b77;
     --alto-contraste-texto: #ffffffe5;
-    --alto-contraste-link: #9bb4bd;
+    --alto-contraste-link: #879ea7;
     --filament-saturation: 0;
     --filament-lightness: 40;
     --fitting-lightness: 30;
@@ -26,7 +26,7 @@ body {
     font-size: 1rem;
     font-family: 'Montserrat';
     background: hsl(215, 100%, calc(var(--bg-lightness) 100%));
-    background-color: #bd8567f5;
+    background-color: #7675c4f5;
     margin: 0;
     padding: 0;
 }
@@ -142,7 +142,7 @@ p {
 
 
 #galeria {
-    background-color: #cab8b8;
+    background-color: #daa3a3;
 }
 
 
@@ -161,7 +161,7 @@ p {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #9b796a;
     border: none;
     font-weight: bold;
 }
