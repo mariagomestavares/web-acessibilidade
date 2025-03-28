@@ -142,7 +142,7 @@ p {
 
 
 #galeria {
-    background-color: #daa3a3;
+    background-color: #f0e2e2;
 }
 
 
@@ -153,7 +153,7 @@ p {
 }
 
 .formulario {
-    background-color: #c6b3b3;
+    background-color: #e9dbf1;
     padding: 2rem;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -161,7 +161,7 @@ p {
 }
 
 .formulario button {
-    background-color: #9b796a;
+    background-color: #d5c0e7;
     border: none;
     font-weight: bold;
 }
